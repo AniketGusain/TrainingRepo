@@ -1,2 +1,4 @@
-"#BankingApp" 
-"#StringCodes" 
+"BankingApp" 
+"StringCodes" 
+"API demo"
+"JPA demo"
